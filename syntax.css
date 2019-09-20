@@ -1,8 +1,7 @@
-#main-content p{color: red;}
+span[class~="deck"]{color: purple;}
 
+div[id]{background: grey;}
 
-p{color: black;}
+a[title="search"]{color: red;}
 
-.test{color: green;}
-
-strong{color: green;}
+a[href^="http"]{color: pink;}
