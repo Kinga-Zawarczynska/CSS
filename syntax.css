@@ -1,7 +1,7 @@
-span[class~="deck"]{color: purple;}
+article p:first-of-type{
+    font-weight: bold;
+}
 
-div[id]{background: grey;}
-
-a[title="search"]{color: red;}
-
-a[href^="http"]{color: pink;}
+article p:last-of-type{
+    color: red;
+}
