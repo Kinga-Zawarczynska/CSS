@@ -1,8 +1,8 @@
-body{color: red;}
+#main-content p{color: red;}
 
-div{color: blue;}
 
-p{color: green;}
+p{color: black;}
 
-a{ color: yellow;
-text-decoration: underline;}
+.test{color: green;}
+
+strong{color: green;}
