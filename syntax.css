@@ -1,7 +1,2 @@
-article p:first-of-type{
-    font-weight: bold;
-}
+article:nth-of-type(odd){background: grey}
 
-article p:last-of-type{
-    color: red;
-}
