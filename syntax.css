@@ -1,12 +1,44 @@
-article{
-
-    font-size: 16px;
+#box{
+    margin: 30px 25%;
+    padding: 30px;
+    border: 1px solid #ee8eb1;
+    width: 50%;
+    
+}
+#header p{
+    text-transform: capitalize;
 }
 
-article h2{
-    font-size: 4em;
+
+
+
+#header h1{
+    color: chocolate;
 }
 
-article p{
-    font-size: 500%;
+#header h2{
+    color: #764896;
+}
+
+#header{
+    background-color: lightcoral;
+}
+
+a{
+    color: hotpink;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a:hover{
+    color: mediumblue;
+    text-decoration: underline;
+    background-color: lightcoral;
+}
+
+p{
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 32px;
 }
