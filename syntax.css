@@ -2,40 +2,80 @@
     padding: 20px;
     margin: 20px;
     float: left;
+    display: inline-block;
+
     
 }
 
 .dashed{
     border: 1px blue dashed;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .dotted{
     border: 1px blue dotted;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .double{
     border: 4px blue double;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    
 }
 
 .groove{
     border: 14px blue groove;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .inset{
     border: 14px blue inset;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .outset{
     border: 14px blue outset;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .ridge{
     border: 14px blue ridge;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 }
 
 .solid{
     border: 1px blue solid;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
 
+}
+
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+.inline{
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid black;
+    display: inline-block;
 }
 
 
