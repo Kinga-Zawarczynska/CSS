@@ -1,10 +1,44 @@
-#box{
-    margin: 30px 25%;
-    padding: 30px;
-    border: 1px solid #ee8eb1;
-    width: 50%;
+.box{
+    padding: 20px;
+    margin: 20px;
+    float: left;
     
 }
+
+.dashed{
+    border: 1px blue dashed;
+}
+
+.dotted{
+    border: 1px blue dotted;
+}
+
+.double{
+    border: 4px blue double;
+}
+
+.groove{
+    border: 14px blue groove;
+}
+
+.inset{
+    border: 14px blue inset;
+}
+
+.outset{
+    border: 14px blue outset;
+}
+
+.ridge{
+    border: 14px blue ridge;
+}
+
+.solid{
+    border: 1px blue solid;
+
+}
+
+
 #header p{
     text-transform: capitalize;
 }
