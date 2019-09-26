@@ -1,11 +1,8 @@
 #banner{
-    background-color: #112365;
+    background-color: rgb;
     width: 100%;
     height: 300px;
-    background-image: url(https://image.shutterstock.com/z/stock-photo-blue-eyed-cat-259729697.jpg), url(https://image.shutterstock.com/z/stock-photo-happy-kitten-likes-being-stroked-by-woman-s-hand-the-british-shorthair-507456550.jpg);
-    background-size: 200px, 100%;
-    background-repeat: no-repeat;
-    background-position: center, top left;
+    
 }
 
 .static-width{

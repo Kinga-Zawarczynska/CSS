@@ -1,0 +1,37 @@
+#circle1{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: #df045f;
+    border-radius: 200px;
+    top: 50px;
+    left: 50px;
+    opacity: 1;
+    text-align: center;
+}
+
+#circle2{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: #651134;
+    border-radius: 200px;
+    top: 250px;
+    left: 150px;
+    opacity: 0.3;
+    text-align: center;
+
+}
+
+#circle3{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: #ad758c;
+    border-radius: 200px;
+    top: 50px;
+    left: 250px;
+    opacity: 0.7;
+    text-align: center;
+
+}
